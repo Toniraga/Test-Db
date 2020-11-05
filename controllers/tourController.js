@@ -1,4 +1,7 @@
+/* eslint-disable prettier/prettier */
 const fs = require('fs');
+const Tour = require('../models/tourModel') 
+
 
 const tours = JSON.parse(
   fs.readFileSync(

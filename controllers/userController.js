@@ -1,4 +1,4 @@
-
+/* eslint-disable prettier/prettier */
 
 // 2b) USER ROUTE HANDLERS
 exports.getAllUsers = (req, res) => {
